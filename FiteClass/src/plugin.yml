@@ -1,0 +1,8 @@
+name: FiteClass
+version: 1.0
+author: Baconsizzle1738
+main: me.Baconsizzle1738.FiteClass.Main
+commands:
+  fighter:
+    aliases: [class]
+    description: Use this to get a fighter type.
